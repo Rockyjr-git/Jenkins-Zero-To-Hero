@@ -1,3 +1,3 @@
 def call() {
-  sh 'echo Hi From DevOps Team'
+  sh 'echo This is my first shared library test'
 }
