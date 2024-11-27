@@ -1,3 +1,3 @@
 def call() {
-  sh 'echo This is my first shared library test'
+  bat 'echo This is my first shared library test'
 }
